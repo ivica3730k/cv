@@ -15,13 +15,13 @@
 
 ## Experience
 
-### Embedded Software Engineer @ Sundance Multiprocessor Ltd.
+### Embedded Software Engineer 
+#### Sundance Multiprocessor Ltd.
 #### www.sundance.com
 May,2020 - Present
 <br>
 Member of a Design Engineering team working on creating Edge Embeeded solutions utilising FPGAs for varius use cases with customers ranging from Agriculture to Mining industry.
 <br> 
-<br>
 - Working on embedded real time projects using ROS, ROS2 and MqTT with Python and C++. 
 - Creating Computer Vision embeeded applications utilising Object detection neural networks, on CPU, GPU and FPGA architecture.
 - Software Engineering for Embedded FPGA Platforms.
@@ -38,10 +38,6 @@ Worked on:
 - [**Field Companion** www.sundance.com/fieldcompanion-finale/](https://www.sundance.com/fieldcompanion-finale/)
 - [**Power Profiling Embedded FPGA Systems** www.sundance.com/hipeac-internship-2021/](https://www.sundance.com/hipeac-internship-2021/)
 - [**Fruit Detection Using MPSoCs** www.hackster.io/sundance-ai/fruit-detection-using-mpsocs-cc0e80](https://www.hackster.io/sundance-ai/fruit-detection-using-mpsocs-cc0e80)
-
-
-<br>
-
 
 ## Training Courses
 
