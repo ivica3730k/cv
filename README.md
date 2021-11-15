@@ -21,7 +21,8 @@
 May,2020 - Present
 <br>
 Member of a Design Engineering team working on creating Edge Embedded solutions utilising FPGAs for various use cases with customers ranging from Agriculture to the Mining industry.
-<br> 
+<br>
+<br>
 - Working on embedded real-time projects using ROS, ROS2 and MQTT with Python and C++.  <br>
 - Creating Computer Vision embedded applications utilising Object detection neural networks, on CPU, GPU and FPGA architecture. <br>
 - Software Engineering for Embedded FPGA Platforms. <br>
@@ -54,7 +55,7 @@ Good knowledge gained on Django, Flask, Bottle, SqlAlchemy, OpenCV, Tensorflow
 Computer Vision, System Design and Implementation, Linux, Computer Networking
 <br>
 
-Modules taken include:
+Modules taken include: <br>
 - **Foundations of Comp & Tech** (High 1st) <br>
 - **Info & Database Engineering** (Mid 1st) <br>
 - **Software Engineering** (Mid 1st) <br>
@@ -65,7 +66,7 @@ Modules taken include:
 - **Practical Project Managment and Profesional Development** (High 2.1) <br>
 
 Completed industry placement year at Sundance Multiprocessor Ltd. (Graded with High 1st)
-## Training Courses
+## Training Courses <br>
 
 **Alliance Partner Training v2018.3** - Xilinx <br>
 **Alliance Partner Training v2019.2** - Xilinx <br>
