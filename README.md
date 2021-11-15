@@ -10,7 +10,7 @@
 #### www.sundance.com
 May,2020 - Present
 <br>
-Member of a Design Engineering team working on creating Edge Embedded solutions utilising FPGAs for various use cases with customers ranging from Agriculture to the Mining industry.
+Member of a Design Engineering team working on creating Edge Embedded solutions utilising FPGAs for various use cases with customers ranging from Agriculture to the Mining industry. <br>
 <br>
 - Working on embedded real-time projects using ROS, ROS2 and MQTT with Python and C++.  <br>
 - Creating Computer Vision embedded applications utilising Object detection neural networks, on CPU, GPU and FPGA architecture. <br>
