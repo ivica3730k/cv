@@ -1,8 +1,6 @@
 # Ivica Matic
-### Software Engineering Student
-#### Nottingham Trent University
-### Embedded Software Engineer
-#### Sundance Multiprocessor Ltd.
+### Software Engineering Student (Nottingham Trent University)
+### Embedded Software Engineer (Sundance Multiprocessor Ltd.)
 [ivica-matic@outlook.com](mailto://ivica-matic@outlook.com) <br>
 [www.linkedin.com/in/matic-ivica](https://www.linkedin.com/in/matic-ivica/)  <br>
 [www.github.com/ivica3730k](https://github.com/ivica3730k)
