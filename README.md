@@ -21,7 +21,8 @@ Member of a Design Engineering team working on creating Edge Embedded solutions 
 - Practical knowledge gained in 3D Printing and CAD design. <br>
 Technologies used and learned: ROS, ROS2, MQTT, OpenCV, Darknet, Tensorflow, LaTeX, GitLab Actions, CI/CD, Unit Testing <br> 
 
-Worked on: 
+Worked on:
+<br>
 - [**Autonomous Robotic InSpEction (ARISE)** www.sundance.com/flipper-testing/
 ](https://www.sundance.com/flipper-testing/)  <br>
 - [**Field Companion** www.sundance.com/fieldcompanion-finale/](https://www.sundance.com/fieldcompanion-finale/) <br>
