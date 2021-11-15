@@ -20,17 +20,17 @@
 #### www.sundance.com
 May,2020 - Present
 <br>
-Member of a Design Engineering team working on creating Edge Embeeded solutions utilising FPGAs for varius use cases with customers ranging from Agriculture to Mining industry.
+Member of a Design Engineering team working on creating Edge Embedded solutions utilising FPGAs for various use cases with customers ranging from Agriculture to the Mining industry.
 <br> 
-- Working on embedded real time projects using ROS, ROS2 and MqTT with Python and C++. 
-- Creating Computer Vision embeeded applications utilising Object detection neural networks, on CPU, GPU and FPGA architecture.
+- Working on embedded real-time projects using ROS, ROS2 and MQTT with Python and C++. 
+- Creating Computer Vision embedded applications utilising Object detection neural networks, on CPU, GPU and FPGA architecture.
 - Software Engineering for Embedded FPGA Platforms.
-- Training image detection neural network models from scratch, labeling custom, problem-specific dataset.
+- Training image detection neural network models from scratch, labelling custom, problem-specific datasets.
 - Usage of AWS EC2 Services for compute-intensive tasks like Neural Network Training and inference services.
 - Skills gained in the field of Robotics, Electronics, Design Engineering and Product Management.
 - Practical knowledge gained in 3D Printing and CAD design.
 
-Technologies used and learnered: ROS, ROS2, MqTT, OpenCV, Darknet, Tensorflow, LaTeX, GitLab Actions, CI/CD, Unit Testing, 
+Technologies used and learned: ROS, ROS2, MQTT, OpenCV, Darknet, Tensorflow, LaTeX, GitLab Actions, CI/CD, Unit Testing, 
 
 Worked on:
 - [**Autonomous Robotic InSpEction (ARISE)** www.sundance.com/flipper-testing/
@@ -47,11 +47,24 @@ Worked on:
 <br>
 Programming in C++, Python, Java
 <br>
-Experience with HTML,CSS and JavaScript
+Experience with HTML,CSS and JavaScript. Working with Relational databases and ORM. 
+<br>
+Good knowledge gained on Django, Flask, Bottle, SqlAlchemy, OpenCV, Tensorflow 
 <br>
 Computer Vision, System Design and Implementation, Linux, Computer Networking
 <br>
 
+Modules taken include:
+- **Foundations of Comp & Tech** (High 1st)
+- **Info & Database Engineering** (Mid 1st)
+- **Software Engineering** (Mid 1st)
+- **Internet Application Programming** (Low 1st)
+- **Systems Software** (Low 1st)
+- **Software Design and Implementation** (Low 1st)
+- **Computer Science Programming** (Low 1st)
+- **Practical Project Managment and Profesional Development** (High 2.1)
+
+Completed industry placement year at Sundance Multiprocessor Ltd. (Graded with High 1st)
 ## Training Courses
 
 **Alliance Partner Training v2018.3** - Xilinx <br>
