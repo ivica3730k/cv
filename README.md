@@ -39,6 +39,19 @@ Worked on:
 - [**Power Profiling Embedded FPGA Systems** www.sundance.com/hipeac-internship-2021/](https://www.sundance.com/hipeac-internship-2021/)
 - [**Fruit Detection Using MPSoCs** www.hackster.io/sundance-ai/fruit-detection-using-mpsocs-cc0e80](https://www.hackster.io/sundance-ai/fruit-detection-using-mpsocs-cc0e80)
 
+## Education
+### BSc (Hons) Software Engineering
+#### Nottingham Trent University
+#### www.ntu.ac.uk
+2018 - Present
+<br>
+Programming in C++, Python, Java
+<br>
+Experience with HTML,CSS and JavaScript
+<br>
+Computer Vision, System Design and Implementation, Linux, Computer Networking
+<br>
+
 ## Training Courses
 
 **Alliance Partner Training v2018.3** - Xilinx <br>
