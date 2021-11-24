@@ -3,7 +3,11 @@
 ### Embedded Software Engineer (Sundance Multiprocessor Ltd.)
 [ivica-matic@outlook.com](mailto://ivica-matic@outlook.com) <br>
 [www.linkedin.com/in/matic-ivica](https://www.linkedin.com/in/matic-ivica/)  <br>
-[www.github.com/ivica3730k](https://github.com/ivica3730k)
+[www.github.com/ivica3730k](https://github.com/ivica3730k) 
+<br>
+<br>
+Software Engineering student at Nottingham Trent University. Computer Technician by vocation, currently working in Embedded Software Engineering doing Computer Vision, process acceleration and power-profiling. 
+
 ## Experience
 ### Embedded Software Engineer 
 #### Sundance Multiprocessor Ltd.
@@ -58,3 +62,7 @@ Completed industry placement year at Sundance Multiprocessor Ltd. (Graded with H
 **Embedded Academy 2020** - Xilinx <br>
 **Developing AI Inference Solutions with the Vitis AI Platform** - Xilinx <br>
 **Accelerating Applications with the Vitis Unified Software Environment** - Xilinx <br>
+
+## Other <br>
+**Amateur Radio Operator And Engineer - 9A3ICE** <br>
+**Award for best Final Dissertation on the topic "Universal IoT development board", Slavonski Brod, Croatia.May 2018.**<br>
