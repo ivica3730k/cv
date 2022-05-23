@@ -5,12 +5,23 @@
 [www.github.com/ivica3730k](https://github.com/ivica3730k) 
 <br>
 <br>
-Software Engineering student at Nottingham Trent University. Computer Technician by vocation, currently working in Embedded Software Engineering doing Computer Vision, process acceleration and power-profiling. 
+Software Engineering Graduate from Nottingham Trent University. Computer Technician by vocation, currently working in the field doing GIS mapping services, web scraping and related technologies. 
 
 ## Experience
+***
+### Software Developer
+#### Spatial Days Ltd.
+#### [www.spatialdays.com](www.spatialdays.com)
+May,2020 - Present
+<br>
+Graduate position started just after finishing univeristy studies. <br>
+- Python Software Engineering
+- Web Scraping
+- GIS Related Services
+***
 ### Software Engineer 
 #### Sundance Multiprocessor Ltd.
-#### www.sundance.com
+#### [www.sundance.com](www.sundance.com)
 May,2020 - April,2022
 <br>
 Member of a Design Engineering team working on creating Edge Embedded solutions utilising FPGAs for various use cases with customers ranging from Agriculture to the Mining industry <br>
@@ -31,6 +42,8 @@ Worked on <br>
 - [**Field Companion** www.sundance.com/fieldcompanion-finale/](https://www.sundance.com/fieldcompanion-finale/) <br>
 - [**Power Profiling Embedded FPGA Systems** www.sundance.com/hipeac-internship-2021/](https://www.sundance.com/hipeac-internship-2021/) <br>
 - [**Fruit Detection Using MPSoCs** www.hackster.io/sundance-ai/fruit-detection-using-mpsocs-cc0e80](https://www.hackster.io/sundance-ai/fruit-detection-using-mpsocs-cc0e80) <br>
+
+***
 ## Education
 ### BSc (Hons) Software Engineering
 #### Nottingham Trent University
