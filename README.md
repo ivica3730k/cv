@@ -1,5 +1,5 @@
 # Ivica Matic
-### Software Engineering Student (Nottingham Trent University)
+### Software Engineer
 [ivica-matic@outlook.com](mailto://ivica-matic@outlook.com) <br>
 [www.linkedin.com/in/matic-ivica](https://www.linkedin.com/in/matic-ivica/)  <br>
 [www.github.com/ivica3730k](https://github.com/ivica3730k) 
@@ -8,16 +8,17 @@
 Software Engineering Graduate from Nottingham Trent University. Computer Technician by vocation, currently working in the field doing GIS mapping services, web scraping and related technologies. 
 
 ## Experience
-***
 ### Software Developer
 #### Spatial Days Ltd.
 #### [www.spatialdays.com](www.spatialdays.com)
 May,2020 - Present
 <br>
 Graduate position started just after finishing univeristy studies. <br>
-- Python Software Engineering
-- Web Scraping
-- GIS Related Services
+
+- Python Software Engineering <br>
+- Web Scraping <br>
+- GIS Related Services <br>
+
 ***
 ### Software Engineer 
 #### Sundance Multiprocessor Ltd.
@@ -43,7 +44,7 @@ Worked on <br>
 - [**Power Profiling Embedded FPGA Systems** www.sundance.com/hipeac-internship-2021/](https://www.sundance.com/hipeac-internship-2021/) <br>
 - [**Fruit Detection Using MPSoCs** www.hackster.io/sundance-ai/fruit-detection-using-mpsocs-cc0e80](https://www.hackster.io/sundance-ai/fruit-detection-using-mpsocs-cc0e80) <br>
 
-***
+
 ## Education
 ### BSc (Hons) Software Engineering
 #### Nottingham Trent University
@@ -97,5 +98,3 @@ Experience using <br>
 - JlcPcb Manufacturing services <br>
 - Autodesk Fusion360 <br>
 - 3D Printing and Cura Slicer <br>
-  
-
